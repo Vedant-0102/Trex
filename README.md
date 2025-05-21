@@ -1,11 +1,14 @@
-# Tetris
+# T-Rex Runner
 
-Chrome Dino Game
+A recreation of Chrome's famous dinosaur game that appears when you're offline. Jump over cacti and dodge obstacles in this endless runner game.
 
 ## Features
--
--
--
+- Endless runner gameplay with increasing difficulty
+- Jump and duck mechanics to avoid obstacles
+- Progressive speed increase as your score grows
+- Day/night cycle transitions
+- High score tracking
+- Responsive design for different screen sizes
 
 ## Screenshots
 
@@ -28,7 +31,9 @@ run index.html
 ```
 
 ## Technologies Used
+- **HTML**
 - **Javascript** 
+- **CSS**
 
 ## License
 This project is publicly accessible, but the code is not available for reuse or modification.

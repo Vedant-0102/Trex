@@ -1,22 +1,21 @@
 # T-Rex Runner
 
-A recreation of Chrome's famous dinosaur game that appears when you're offline. Jump over cacti and dodge obstacles in this endless runner game.
+A recreation of Chrome's famous dinosaur game 
 
 ## Features
 - Endless runner gameplay with increasing difficulty
-- Jump and duck mechanics to avoid obstacles
+- Jump (touchscreen on phone) to avoid obstacles
 - Progressive speed increase as your score grows
-- Day/night cycle transitions
 - High score tracking
 - Responsive design for different screen sizes
 
 ## Screenshots
 
 ### Gameplay:
-![Gameplay]()
+![Gameplay](https://github.com/user-attachments/assets/2cb11856-bdb2-4407-aff2-6cec1d9d14de)
 
-### Tetris Board
-![Tetris]()
+![Gameplay](https://github.com/user-attachments/assets/a691b74d-cb14-423c-ac91-be2eb7ecac35)
+
 
 ## Installation & Setup
 
